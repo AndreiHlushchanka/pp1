@@ -1,8 +1,7 @@
 def read_number():
-    a = int(input('Enter a number: '))
-    return a
+    return int(input('Enter a number: '))
 
 x = read_number()
 y = read_number()
 
-print(x+y)
+print(f'suma liczb {x} i {y} wynosi {x+y}')
