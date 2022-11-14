@@ -1,4 +1,4 @@
-#na svoi pc nado bydet skachat' biblioteku NUMPY
+#na teste ne bydet biblioteli NUMPY
 
 arr=[2,3,7,5,4]
 
