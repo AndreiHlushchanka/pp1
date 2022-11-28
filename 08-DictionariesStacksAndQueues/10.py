@@ -25,5 +25,7 @@ countries = [{
 
 i=0
 while i<len(countries):
-    print(countries[i])
+    for k,v in countries[i].items():
+        print(v, end=' ')
+    print()
     i+=1
